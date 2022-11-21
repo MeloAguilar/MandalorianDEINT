@@ -1,4 +1,6 @@
 ﻿using Entidades;
+
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,14 +22,15 @@ namespace DAL
         /// <returns></returns>
         public static clsMision obtenerMisionPorId (List<clsMision> misiones, int id)
         {
+            clsMision mision = new clsMision();
             foreach (clsMision m in misiones)
             {
                 if (m.Id == id)
                 {
-                    return m;
+                    mision = m;
                 }
             }
-            return new clsMision();
+            return mision;
         }
     }
 }

@@ -16,11 +16,15 @@ namespace BL
 		///		si el dia de la semana es 0, devolverá null
 		///		si el dia de la semana no es 0, devolverá la lista completa de misiones
 		/// </returns>
-		public List<clsMision> getMisionesSiNoEsDomingo()
+		public List<clsMision> obtenerListadoCompletoSiNoEsDomingo()
 		{
 			List<clsMision> lista = null;
-			if(System.DateTime.Now.DayOfWeek != 0)
-			lista =  clsListadosMisiones.obtenerListadoCompleto();
+			if (System.DateTime.Now.DayOfWeek != 0)
+			{
+				lista =  clsListadosMisiones.obtenerListadoCompleto();
+
+			}
+
 
 			return lista;
 		}

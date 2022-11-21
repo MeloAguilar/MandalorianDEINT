@@ -1,17 +1,14 @@
-﻿namespace MandalorianUI;
+﻿using Entidades;
+using MandalorianUI.ViewModels;
+
+namespace MandalorianUI;
 
 public partial class MainPage : ContentPage
 {
 	
-
 	public MainPage()
 	{
 		InitializeComponent();
-	}
-
-	private void Button_Clicked(object sender, EventArgs e)
-	{
-
 	}
 }
 

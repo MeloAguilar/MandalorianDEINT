@@ -7,33 +7,33 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MandalorianUI
-build_property.ProjectDir = C:\Users\caguilar\Desktop\Interfaces\MandalorianDEINT\MandalorianUI\
+build_property.ProjectDir = C:\Users\carra\Source\Repos\MeloAguilar\MandalorianDEINT\MandalorianUI\
 
-[C:/Users/caguilar/Desktop/Interfaces/MandalorianDEINT/MandalorianUI/App.xaml]
+[C:/Users/carra/Source/Repos/MeloAguilar/MandalorianDEINT/MandalorianUI/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MandalorianUI.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/caguilar/Desktop/Interfaces/MandalorianDEINT/MandalorianUI/AppShell.xaml]
+[C:/Users/carra/Source/Repos/MeloAguilar/MandalorianDEINT/MandalorianUI/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MandalorianUI.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/caguilar/Desktop/Interfaces/MandalorianDEINT/MandalorianUI/MainPage.xaml]
+[C:/Users/carra/Source/Repos/MeloAguilar/MandalorianDEINT/MandalorianUI/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MandalorianUI.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/caguilar/Desktop/Interfaces/MandalorianDEINT/MandalorianUI/Resources/Styles/Colors.xaml]
+[C:/Users/carra/Source/Repos/MeloAguilar/MandalorianDEINT/MandalorianUI/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MandalorianUI.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/caguilar/Desktop/Interfaces/MandalorianDEINT/MandalorianUI/Resources/Styles/Styles.xaml]
+[C:/Users/carra/Source/Repos/MeloAguilar/MandalorianDEINT/MandalorianUI/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MandalorianUI.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
